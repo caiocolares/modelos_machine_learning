@@ -1,0 +1,38 @@
+Trabalho Modelos de Machine Learning:
+
+* Entrega: 19/07 19/08 (nova data)
+
+* Formato: Apresentar, em vídeo (de 10~15 min), o Jupyter Notebook com os itens listados abaixo. Enviar o vídeo para meu WhatsApp privado com o link do YouTube ou Google Drive.
+
+1. Definição do Problema:
+* Qual o cenário em que está trabalhando?
+    - Industria de Confecção 
+* Qual a problemática que está tentando resolver?
+    - ???
+* Quais os dados utilizados e como foram obtidos?
+    - Solicitação de uso dos dados para empresa. Dependendo dos resultados, serão o modelo será testado em produção.
+
+2. Análise Exploratória dos Dados:
+* Distribuição dos dados
+* Balanceamento das Classes (em caso de classificação)
+* Outliers
+* Matriz de Correlações
+* Estatísticas Descritivas
+* Visualizações Temporais
+* Mapas Geográficos
+
+3. Pré-processamento dos Dados:
+* Filtragem dos dados
+* Valores Faltantes
+* Normalização
+* Variáveis Categóricas
+* Engenharia ou Seleção de Atributos
+
+4. Treinamento do Modelo:
+* Método de Treinamento: Divisão Treino/Teste ou Validação Cruzada
+* Pelo menos dois Modelos: Linear, Árvore, Ensemble, KNN, etc.
+* Hiperparâmetros
+
+5. Avaliação:
+* Métricas
+* Comparação dos Modelos
